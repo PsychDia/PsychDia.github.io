@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <title>包寒吴霜丨BAO Han Wu Shuang (Bruce)</title>
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico?"/>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  </head>
+
+  <body>
+    <div class="wrapper">
+
+      <header>
+        <h1>Dr. 包寒吴霜 (Bruce Bao)</h1>
+
+        <div class="toc">
+          <ul class="toc-list">
+            <li><a href="#academic-position">Academic Position</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#research-interests">Research Interests</a></li>
+            <li><a href="#grants">Grants</a></li>
+            <li><a href="#teaching">Teaching</a></li>
+            <li><a href="#publications">Publications</a></li>
+            <li><a href="#expertise">Expertise</a></li>
+            <li><a href="#service">Service</a></li>
+            <li><a href="#invited-talks">Invited Talks</a></li>
+            <li><a href="#selected-blog-articles">Blog Articles</a></li>
+          </ul>
+        </div>
+      </header>
+
+      <section>
+        <div class="flex">
+          <div>
+            <p>
+              Email: <a href="mailto:baohws@foxmail.com">baohws@foxmail.com</a><br/>
+              Website: <a href="https://psychbruce.github.io">psychbruce.github.io</a><br/>
+              Download: <a href="https://psychbruce.github.io/BaoHWS_CV_2026-03.pdf">BaoHWS_CV_2026.pdf</a><br/>
+              <br/>
+              <a href="https://orcid.org/0000-0003-3043-710X">ORCID</a>｜<a href="https://scholar.google.com/citations?user=n6WxN7YAAAAJ">GoogleScholar</a><br/>
+              <a href="https://github.com/psychbruce">GitHub</a>｜<a href="https://www.researchgate.net/profile/Han-Wu-Shuang-Bao">ResearchGate</a><br/>
+              <a href="img/WeChat@BaoHWS.jpg">微信@BaoHWS</a>｜<a href="https://www.zhihu.com/people/psychbruce/">知乎@包寒吴霜</a><br/>
+              <a href="https://psychbruce.notion.site/Collaboration-Principle-822d4c90f8464a8c9696b9fa95362131">Collaboration Principle 合作原则</a>
+            </p>
+            <p>(Updated: Mar 2026)</p>
+          </div>
+          <div>
+            <img class="logo" src="img/Bruce-Packages-HexLogo.png" />
+          </div>
+          <div>
+            <img class="logo" src="{{site.logo | relative_url}}" />
+          </div>
+        </div>
+        {{ content }}
+      </section>
+
+    </div>
+
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+
+  </body>
+</html>
