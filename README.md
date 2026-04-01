@@ -60,42 +60,44 @@
 
 <p>
   <img src="https://psychdia.github.io/img/raw-github/r.png" height="40"/>
-  <img src="https://psychbr.github.io/img/raw-github/python.png" height="40"/>
-  <img src="https://psychbr.github.io/img/raw-github/html.png" height="40"/>
-  <img src="https://psychbr.github.io/img/raw-github/css.png" height="40"/>
-  <img src="https://psychbr.github.io/img/raw-github/javascript.png" height="40"/>
+  <img src="https://psychdia.github.io/img/raw-github/python.png" height="40"/>
+  <img src="https://psychdia.github.io/img/raw-github/html.png" height="40"/>
+  <img src="https://psychdia.github.io/img/raw-github/css.png" height="40"/>
+  <img src="https://psychdia.github.io/img/raw-github/javascript.png" height="40"/>
   <img src="https://psychdia.github.io/img/raw-github/git.png" height="40"/>
   <img src="https://psychdia.github.io/img/raw-github/markdown.png" height="40"/>
 </p>
 
 - **R** (proficient)
-  - Data cleaning 
-  - Data analysis
-  - Data visualization
+  - Data Cleaning 
+  - Data Analysis
+  - Data Visualization
 - **Python** (proficient)
   - Experimental Design 
-  - Web crawling 
-  - Automation of data collection and preprocessing 
-  - EEG data processing 
+  - Web Crawling 
+  - Automation of Data Collection and Preprocessing 
+  - EEG Data Preprocessing 
 - **Docker** (familiar)
-  - fMRI data processing 
+  - fMRI Data Preprocessing 
 
 ***
 
 ## Selected Blog Articles & Videos
 
-### Psychology
+### Lecture & Reading Notes
 
 - [行为主义往事：从精密机器到辉煌人性 (2023)](https://mp.weixin.qq.com/s/0B8BJcADmuapkMUOZjWqhg)
 
-### Comment
+- 《西方马克思主义哲学》讲稿（整理自张双利老师的同名课程，待补充）
 
-- [南京照相馆影评：南京照相馆的遗憾 (2025)](https://mp.weixin.qq.com/s/oDf5WQIpuHilwY0M2yizqQ)
+### Literary Critic
+
+- [南京照相馆的遗憾 (2025)](https://mp.weixin.qq.com/s/oDf5WQIpuHilwY0M2yizqQ)
 - [何为左翼文艺 (2024)](https://www.zhihu.com/question/538730701/answer/3619169137)
 
 ### Video
 
-- [流浪地球✖贝加尔湖畔 | 剪辑](https://www.bilibili.com/video/BV1Du4y1d7wt/)
+- [流浪地球✖贝加尔湖畔 剪辑](https://www.bilibili.com/video/BV1Du4y1d7wt/)
 - [吉林大学官方b站联动视频（参与拍摄）](https://www.bilibili.com/video/BV1y64y1R7Hk/)
 
 ***
