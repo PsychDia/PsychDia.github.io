@@ -1,12 +1,12 @@
 ## Education
 
-### 🎓 *M.S.* in Fundamental Psychology (2024\~2027)
+### 🎓 *M.Sc.* in Fundamental Psychology (2024\~2027)
 
 **Shaanxi Normal University**, [School of Psychology](https://psych.snnu.edu.cn/)\
 陕西师范大学 · 心理学院 (理学硕士)\
 导师：**孔风** 教授
 
-### 🎓 *B.Sc.* in Psychology (2020\~2024)
+### 🎓 *B.Sc.* in Applied Psychology (2020\~2024)
 
 **Jilin University**, [Department of Psychology, School of Philosophy and Sociology](https://zsy.jlu.edu.cn/index.htm)\
 吉林大学 · 哲学社会学院心理学系 (理学学士)\
@@ -16,9 +16,7 @@
 
 ## Research Interests
 
-#### Positive Psychology  
-#### Environmental Psychology
-#### Social Psychology
+#### Positive Psychology, Environmental Psychology, Social Psychology
 
 ***
 
@@ -34,9 +32,9 @@
 
 ### In Progress (Displayed First Author Only)
 
-1. **Liu, Q.**, Wang, S., Niu, X., Li, C., Guo, T., Chen, X., & Kong, F.<sup>\*</sup> (2026). Cumulative benefits of nature: Childhood nature experiences and daily well-being in young adults. ***Journal of Environmental Psychology***.
+1. **Liu, Q.**, Wang, S., Niu, X., Li, C., Guo, T., Chen, X., & Kong, F.<sup>\*</sup> (2026). Cumulative benefits of nature: Childhood nature experiences and daily well-being in young adults. ***Journal of Environmental Psychology***. (in Second Round Review)
 
-2. **Liu, Q.**, Wang, S., & Kong, F.<sup>\*</sup> (2026). Living True, Acting Green: Daily Dynamics of authenticity and Pro-environmental Behavior. ***European Journal of Personality***.
+2. **Liu, Q.**, Wang, S., & Kong, F.<sup>\*</sup> (2026). Living True, Acting Green: Daily Dynamics of authenticity and Pro-environmental Behavior. ***European Journal of Personality***. (in First Round Review)
 
 ***
 
@@ -71,33 +69,34 @@
 </p>
 
 - **R** (proficient)
-  - Data cleaning (bruceR)
+  - Data cleaning 
   - Data analysis
-    - Descriptive statistics 
-    - Basic statistical analysis 
-    - Structural equation modeling
-    - Latent Class Analysis
-    - Network analysis
-    - Meta-analysis
-  - Data visualization (ggplot2)
+  - Data visualization
 - **Python** (proficient)
-  - Experiment Design (psychopy)
-  - Web crawling (DrissionPage, Beautiful Soup)
-  - Automation of data collection and processing (autopygui, numpy, pandas)
-  - EEG data processing (mne)
+  - Experimental Design 
+  - Web crawling 
+  - Automation of data collection and preprocessing 
+  - EEG data processing 
 - **Docker** (familiar)
-  - fMRI data processing (fmriperp, deepprep)
+  - fMRI data processing 
 
 ***
 
-## Selected Blog Articles & 
+## Selected Blog Articles & Videos
+
 ### Psychology
-- [行为主义往事：从精密机器到辉煌人性 (2022)](https://mp.weixin.qq.com/s/0B8BJcADmuapkMUOZjWqhg)
+
+- [行为主义往事：从精密机器到辉煌人性 (2023)](https://mp.weixin.qq.com/s/0B8BJcADmuapkMUOZjWqhg)
 
 ### Comment
 
 - [南京照相馆影评：南京照相馆的遗憾 (2025)](https://mp.weixin.qq.com/s/oDf5WQIpuHilwY0M2yizqQ)
 - [何为左翼文艺 (2024)](https://www.zhihu.com/question/538730701/answer/3619169137)
+
+### Video
+
+- [流浪地球✖贝加尔湖畔 | 剪辑](https://www.bilibili.com/video/BV1Du4y1d7wt/)
+- [吉林大学官方b站联动视频（参与拍摄）](https://www.bilibili.com/video/BV1y64y1R7Hk/)
 
 ***
 
@@ -105,13 +104,11 @@
 
 Reading
 
- - Marxism & Western Marxism
-
 Ping-Pong
 
 ***
 
 ## Hometowns
 
-“广东东莞长大的江西九江人”
+“在广东东莞长大的江西九江人”
 
