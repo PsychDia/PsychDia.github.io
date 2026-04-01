@@ -26,23 +26,48 @@
 
 <sup>\*</sup>corresponding author
 
-### Journal Articles in English:
+### Published
+
 1. Wang, S., **Liu, Q.**, Guo, T., Chen, X., Tan, Q., Zhen, Z., & Kong, F.<sup>\*</sup> (2026). Pursuing Pleasure or Meaning: A Weekly Diary Study of Happiness Motives and Prosocial Behavior in Young Adults. ***Journal of Happiness Studies**, 27.*(2).
-   (IF<sub>2025</sub> = 3.3, SSCI Q1)
+   (IF<sub>2025</sub> = 3.3, SSCI Q1, 新锐<sub>2026</sub> 一区)
    🔥 [Download PDF Freely in ResearchGate](https://www.researchgate.net/publication/400646996)
+
+### In Progress (Displayed First Author Only)
+
+1. **Liu, Q.**, Wang, S., Niu, X., Li, C., Guo, T., Chen, X., & Kong, F.<sup>\*</sup> (2026). Cumulative benefits of nature: Childhood nature experiences and daily well-being in young adults. ***Journal of Environmental Psychology***.
+
+2. **Liu, Q.**, Wang, S., & Kong, F.<sup>\*</sup> (2026). Living True, Acting Green: Daily Dynamics of authenticity and Pro-environmental Behavior. ***European Journal of Personality***.
+
+***
+
+## Coursework Online
+
+### 理工科课程
+- 多元函数[微分](https://www.bilibili.com/video/BV11a4y1L7BV/)及[积分](https://www.bilibili.com/video/BV19C4y1W7z7/)；[线性代数](https://www.bilibili.com/video/BV1ix411f7Yp/)；[概率论与数理统计](https://www.bilibili.com/video/BV1Ks41137yP/)
+- [复变函数与积分变换](https://www.bilibili.com/video/BV1W54y1Z7qK/)
+- [信号与系统](https://www.bilibili.com/video/BV1g94y1Q76G/)
+- [机器学习白板推导](https://www.bilibili.com/video/BV1aE411o7qd/)
+- [随机过程](https://www.bilibili.com/video/BV11b421E7nh/)
+
+### 哲学课程
+- [中国哲学史](https://www.bilibili.com/video/BV1Qy4y117kM/)；西方哲学史
+- [科学哲学](https://www.bilibili.com/video/BV1G4411f73f/)
+- [德国古典哲学](https://www.bilibili.com/video/BV1494y1o7BD/)
+- [《1844年经济学哲学手稿》导读](https://www.bilibili.com/video/BV1gVFKebEXn)
+- [西方马克思主义](https://www.bilibili.com/video/BV1GJ4m1j7FR/)
 
 ***
 
 ## Expertise
 
 <p>
-  <img src="https://psychbruce.github.io/img/raw-github/r.png" height="40"/>
-  <img src="https://psychbruce.github.io/img/raw-github/python.png" height="40"/>
-  <img src="https://psychbruce.github.io/img/raw-github/html.png" height="40"/>
-  <img src="https://psychbruce.github.io/img/raw-github/css.png" height="40"/>
-  <img src="https://psychbruce.github.io/img/raw-github/javascript.png" height="40"/>
-  <img src="https://psychbruce.github.io/img/raw-github/git.png" height="40"/>
-  <img src="https://psychbruce.github.io/img/raw-github/markdown.png" height="40"/>
+  <img src="https://psychdia.github.io/img/raw-github/r.png" height="40"/>
+  <img src="https://psychbr.github.io/img/raw-github/python.png" height="40"/>
+  <img src="https://psychbr.github.io/img/raw-github/html.png" height="40"/>
+  <img src="https://psychbr.github.io/img/raw-github/css.png" height="40"/>
+  <img src="https://psychbr.github.io/img/raw-github/javascript.png" height="40"/>
+  <img src="https://psychdia.github.io/img/raw-github/git.png" height="40"/>
+  <img src="https://psychdia.github.io/img/raw-github/markdown.png" height="40"/>
 </p>
 
 - **R** (proficient)
@@ -65,24 +90,28 @@
 
 ***
 
-## Selected Blog Articles
+## Selected Blog Articles & 
 ### Psychology
 - [行为主义往事：从精密机器到辉煌人性 (2022)](https://mp.weixin.qq.com/s/0B8BJcADmuapkMUOZjWqhg)
+
 ### Comment
+
 - [南京照相馆影评：南京照相馆的遗憾 (2025)](https://mp.weixin.qq.com/s/oDf5WQIpuHilwY0M2yizqQ)
 - [何为左翼文艺 (2024)](https://www.zhihu.com/question/538730701/answer/3619169137)
 
 ***
 
 ## Hobbies
+
 Reading
 
- - Marxism  
+ - Marxism & Western Marxism
 
 Ping-Pong
+
 ***
 
 ## Hometowns
 
-“广东长大的江西人”
+“广东东莞长大的江西九江人”
 
