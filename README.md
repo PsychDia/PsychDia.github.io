@@ -16,7 +16,7 @@
 
 ## Research Interests
 
-#### Positive Psychology, Environmental Psychology, Social Psychology
+#### Social Psychology, AI for psychology
 
 ***
 
@@ -29,6 +29,7 @@
 1. Wang, S., **Liu, Q.**, Guo, T., Chen, X., Tan, Q., Zhen, Z., & Kong, F.<sup>\*</sup> (2026). Pursuing Pleasure or Meaning: A Weekly Diary Study of Happiness Motives and Prosocial Behavior in Young Adults. ***Journal of Happiness Studies**, 27.*(2).
    (IF<sub>2025</sub> = 3.3, SSCI Q1, 新锐<sub>2026</sub> 一区)
    🔥 [Download PDF Freely in ResearchGate](https://www.researchgate.net/publication/400646996)
+2. Wang, S., **Liu, Q.**, & Kong, F.<sup>\*</sup> (2026). Beyond happiness and meaning: a bi-factor model of gratitude in predicting psychological richness among young adults. ***The Journal of Positive Psychology**, 1–12. https://doi.org/10.1080/17439760.2026.2660672
 
 ### In Progress (Displayed First Author Only)
 
