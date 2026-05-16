@@ -27,7 +27,7 @@
 
 ### Published
 
-1. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, Niu, X., Li, C., Guo, T., Chen, X., & Kong, F.<sup>\*</sup> (2026). Cumulative benefits of nature: Childhood nature experiences and daily well-being in young adults. ***Journal of Environmental Psychology***. *In progress*\
+1. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, Niu, X., Li, C., Guo, T., Chen, X., & Kong, F.<sup>\*</sup> (2026). Cumulative benefits of nature: Childhood nature experiences and daily well-being in young adults. ***Journal of Environmental Psychology***. *In Press*\
  (IF<sub>2025</sub> = 7.0, SSCI Q1, 新锐<sub>2026</sub> 一区)\
    🔥 [Download PDF Freely in ResearchGate](https://www.researchgate.net/publication/404803456)
 2. Wang, S.<sup>#</sup>, **Liu, Q.**<sup>#</sup>, & Kong, F.<sup>\*</sup> (2026). Beyond happiness and meaning: a bi-factor model of gratitude in predicting psychological richness among young adults. ***The Journal of Positive Psychology***, 1–12. [https://doi.org/10.1080/17439760.2026.2660672](https://doi.org/10.1080/17439760.2026.2660672)\
