@@ -22,22 +22,23 @@
 
 ## Publications
 
-<sup>\*</sup>corresponding author
+<sup>\*</sup> corresponding author  
+<sup>*#*</sup> first co-author
 
 ### Published
 
-1. Wang, S., **Liu, Q.**, Guo, T., Chen, X., Tan, Q., Zhen, Z., & Kong, F.<sup>\*</sup> (2026). Pursuing Pleasure or Meaning: A Weekly Diary Study of Happiness Motives and Prosocial Behavior in Young Adults. ***Journal of Happiness Studies**, 27.*(2).\
+1. **Liu, Q.** <sup>#</sup>, Wang, S.<sup>#</sup>, Niu, X., Li, C., Guo, T., Chen, X., & Kong, F.<sup>\*</sup> (2026). Cumulative benefits of nature: Childhood nature experiences and daily well-being in young adults. ***Journal of Environmental Psychology***.  (IF<sub>2025</sub> = 7.0, SSCI Q1, 新锐<sub>2026</sub> 一区)\
+   🔥 [Download PDF Freely in ResearchGate](https://www.researchgate.net/publication/404803456)
+2. Wang, S.<sup>#</sup>, **Liu, Q.** <sup>#</sup>, Guo, T., Chen, X., Tan, Q., Zhen, Z., & Kong, F.<sup>\*</sup> (2026). Pursuing Pleasure or Meaning: A Weekly Diary Study of Happiness Motives and Prosocial Behavior in Young Adults. ***Journal of Happiness Studies**, 27.*(2).\
    (IF<sub>2025</sub> = 3.3, SSCI Q1, 新锐<sub>2026</sub> 一区)\
    🔥 [Download PDF Freely in ResearchGate](https://www.researchgate.net/publication/400646996)
-2. Wang, S., **Liu, Q.**, & Kong, F.<sup>\*</sup> (2026). Beyond happiness and meaning: a bi-factor model of gratitude in predicting psychological richness among young adults. ***The Journal of Positive Psychology**, 1–12. [https://doi.org/10.1080/17439760.2026.2660672](https://doi.org/10.1080/17439760.2026.2660672)\
+3. Wang, S., **Liu, Q.**, & Kong, F.<sup>\*</sup> (2026). Beyond happiness and meaning: a bi-factor model of gratitude in predicting psychological richness among young adults. ***The Journal of Positive Psychology**, 1–12. [https://doi.org/10.1080/17439760.2026.2660672](https://doi.org/10.1080/17439760.2026.2660672)\
    (IF<sub>2025</sub> = 2.9, SSCI Q1, 新锐<sub>2026</sub> 二区)\
    🔥 [Download PDF Freely in ResearchGate](https://www.researchgate.net/publication/403875743)
 
 ### In Progress (Displayed First Author Only)
 
-1. **Liu, Q.**, Wang, S., Niu, X., Li, C., Guo, T., Chen, X., & Kong, F.<sup>\*</sup> (2026). Cumulative benefits of nature: Childhood nature experiences and daily well-being in young adults. ***Journal of Environmental Psychology***. (in Second Round Review)
-
-2. **Liu, Q.**, Wang, S., & Kong, F.<sup>\*</sup> (2026). Living True, Acting Green: Daily Dynamics of authenticity and Pro-environmental Behavior. ***European Journal of Personality***. (in First Round Review)
+1. **Liu, Q.**, Wang, S., & Kong, F.<sup>\*</sup> (2026). Living True, Acting Green: Daily Dynamics of authenticity and Pro-environmental Behavior. ***European Journal of Personality***. (being revised for the first round of review)
 
 ***
 
