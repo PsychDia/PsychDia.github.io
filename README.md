@@ -36,7 +36,7 @@
 3. Wang, S., **Liu, Q.**, Guo, T., Chen, X., Tan, Q., Zhen, Z., & Kong, F.<sup>\*</sup> (2026). Pursuing Pleasure or Meaning: A Weekly Diary Study of Happiness Motives and Prosocial Behavior in Young Adults. ***Journal of Happiness Studies**, 27.*(2). [https://doi.org/10.1007/s10902-026-01022-6](https://doi.org/10.1007/s10902-026-01022-6)\
    (IF<sub>2025</sub> = 3.3, SSCI Q1, 新锐<sub>2026</sub> 一区)\
    🔥 [Download PDF Freely in ResearchGate](https://www.researchgate.net/publication/400646996)
-
+4. Ren, A., Zhong, K., Liu, Y., **Liu, Q.**, Zhu, N., & Kong, F.<sup>\*</sup> (2026). Childhood maltreatment and emotional intelligence across development: A multilevel meta-analytic review. ***Trauma, Violence, & Abuse***, 15248380261443218. [https://doi.org/10.1177/15248380261443218](https://doi.org/10.1177/15248380261443218)
 
 ### In Progress (Displayed First Author Only)
 
@@ -76,32 +76,29 @@
 </p>
 
 ### Program & Software
-- **R** (proficient)
-  - Package: httr2, ellmer, bruceR, tidyverse, purrr, furrr, MplusAutomation, lme4, FMAT...
-  - Core Skill: Utilizing Large Language Models (LLMs) for Fill-Mask Association Tasks
-  - Program:
-    -  Experience Sampling Method (ESM) Data Preprocessing Pipeline​ (To be open-sourced)
-    -  Multilevel Modeling Analysis Workflow​ (See OSF repository upon article publication)
-    -  Using API to call LLM for meta-analysis title and abstract screening (To be open-sourced)
-- **Python** (proficient)
-  - Package: numpy, pandas, matplotlib, DrissionPgae, pyautogui, uiautomation, Psychopy, pytorch, ... 
-  - Core Skill: Data Handling, Web Crawling, Experimental Design, EEG Data Preprocessing 
-  - Program: 
-    - Automation of ESM Data Collection and Preprocessing (To be open-sourced)
-    - 
-- **Other Skill**  
-  - fMRI Data Preprocessing  
-    - Deepprep  
-    - AFNI
-  - Automated Workflows and Project Development Using Claude Code/Codex/Trae 
-
-### 开源项目(待补充
-
-- **R**
- - 经验取样法数据预处理脚本
- - 多水平分析标准流程
-- **Python**
-- 经验取样法自动数据收集脚本
+#### **R** (proficient)
+- *Packages:* `httr2`, `ellmer`, `bruceR`, `tidyverse`, `purrr`, `MplusAutomation`, `lme4`, `FMAT`, ...
+- *Core Skill:*
+  - Data Cleaning, Analysis and Visualization
+  - Utilizing Large Language Models (LLMs) for Fill-Mask Association Tasks
+- *Project:*
+  -  Experience Sampling Method (ESM) Data Preprocessing Pipeline​ (To be open-sourced)
+  -  Multilevel Modeling Analysis Workflow​ (See OSF repository upon article publication)
+  -  Using API to call LLM for meta-analysis title and abstract screening (To be open-sourced)
+#### **Python** (proficient)
+- *Packages:* `numpy`, `pandas`, `matplotlib`, `DrissionPgae`, `pyautogui`, `uiautomation`, `Psychopy`, `pytorch`, ... 
+- *Core Skill:*
+  - Data Handling,
+  - Web Crawling
+  - Experimental Design
+  - EEG Data Preprocessing 
+- *Representative Projects:* 
+  - Automation of ESM Data Collection and Preprocessing (To be open-sourced)
+#### **Other Skills**  
+- fMRI Data Preprocessing  
+  - Deepprep  
+  - AFNI
+- Automated Workflows or Project Development Using Claude Code/Codex/Trae 
 
 ***
 
