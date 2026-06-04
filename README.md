@@ -84,7 +84,7 @@ hi!你好~我是来自陕西师范大学基础心理学专业的硕士生刘潜�
 </p>
 
 ### R 
-- **Core Packages:** httr2, ellmer, bruceR, tidyverse, purrr, MplusAutomation, lme4, FMAT, ...\
+- **Core Packages:** httr2, ellmer, bruceR, tidyverse, purrr, MplusAutomation, lme4, FMAT, ...
 - **Core Skills:**
   - Data Cleaning, Analysis and Visualization
   - Utilizing Large Language Models (LLMs) for Fill-Mask Association Tasks
@@ -94,7 +94,7 @@ hi!你好~我是来自陕西师范大学基础心理学专业的硕士生刘潜�
   -  Using API to Call LLM for Meta-analysis Title and Abstract Screening (To be open-sourced)
  
 ### Python 
-- **Core Packages:** numpy, pandas, matplotlib, DrissionPage, pyautogui, uiautomation, Psychopy, mne, pytorch, ...\ 
+- **Core Packages:** numpy, pandas, matplotlib, DrissionPage, pyautogui, uiautomation, Psychopy, mne, pytorch, ...
 - **Core Skills:**
   - Data Processing,
   - Web Crawling
