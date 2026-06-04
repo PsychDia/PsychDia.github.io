@@ -75,30 +75,31 @@
   <img src="https://psychdia.github.io/img/raw-github/markdown.png" height="40"/>
 </p>
 
-### Program & Software
-#### **R** (proficient)
-- *Packages:* `httr2`, `ellmer`, `bruceR`, `tidyverse`, `purrr`, `MplusAutomation`, `lme4`, `FMAT`, ...
-- *Core Skill:*
+### R (proficient)
+- **Core Packages:** httr2, ellmer, bruceR, tidyverse, purrr, MplusAutomation, lme4, FMAT, ...
+- **Core Skills:**
   - Data Cleaning, Analysis and Visualization
   - Utilizing Large Language Models (LLMs) for Fill-Mask Association Tasks
-- *Project:*
-  -  Experience Sampling Method (ESM) Data Preprocessing Pipeline​ (To be open-sourced)
-  -  Multilevel Modeling Analysis Workflow​ (See OSF repository upon article publication)
-  -  Using API to call LLM for meta-analysis title and abstract screening (To be open-sourced)
-#### **Python** (proficient)
-- *Packages:* `numpy`, `pandas`, `matplotlib`, `DrissionPgae`, `pyautogui`, `uiautomation`, `Psychopy`, `pytorch`, ... 
-- *Core Skill:*
+- **Representative Projects:**
+  -  Standardized Experience Sampling Method (ESM) Data Preprocessing Pipeline​ | To be open-sourced
+  -  Multilevel Modeling Analysis Workflow​ | See OSF repository upon article publication
+  -  Using API to Call LLM for Meta-analysis Title and Abstract Screening | To be open-sourced
+ 
+### Python (proficient)
+- **Core Packages:** numpy, pandas, matplotlib, DrissionPage, pyautogui, uiautomation, Psychopy, mne, pytorch, ... 
+- **Core Skills:**
   - Data Handling,
   - Web Crawling
   - Experimental Design
   - EEG Data Preprocessing 
-- *Representative Projects:* 
-  - Automation of ESM Data Collection and Preprocessing (To be open-sourced)
-#### **Other Skills**  
+- **Representative Projects:** 
+  - Automation of ESM Data Collection and Preprocessing | To be open-sourced
+
+### Other Skills
 - fMRI Data Preprocessing  
   - Deepprep  
   - AFNI
-- Automated Workflows or Project Development Using Claude Code/Codex/Trae 
+- Automated Workflows or Project Development Using AI Agent 
 
 ***
 
