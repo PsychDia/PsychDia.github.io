@@ -36,11 +36,11 @@
 3. Wang, S., **Liu, Q.**, Guo, T., Chen, X., Tan, Q., Zhen, Z., & Kong, F.<sup>\*</sup> (2026). Pursuing Pleasure or Meaning: A Weekly Diary Study of Happiness Motives and Prosocial Behavior in Young Adults. ***Journal of Happiness Studies**, 27.*(2). [https://doi.org/10.1007/s10902-026-01022-6](https://doi.org/10.1007/s10902-026-01022-6)\
    (IF<sub>2025</sub> = 3.3, SSCI Q1, 新锐<sub>2026</sub> 一区)\
    🔥 [Download PDF Freely in ResearchGate](https://www.researchgate.net/publication/400646996)
-4. Ren, A., Zhong, K., Liu, Y., **Liu, Q.**, Zhu, N., & Kong, F.<sup>\*</sup> (2026). Childhood maltreatment and emotional intelligence across development: A multilevel meta-analytic review. ***Trauma, Violence, & Abuse***, 15248380261443218. [https://doi.org/10.1177/15248380261443218](https://doi.org/10.1177/15248380261443218)
+4. Ren, A., Zhong, K., Liu, Y., **Liu, Q.**, Zhu, N.<sup>\*</sup>, & Kong, F.<sup>\*</sup> (2026). Childhood maltreatment and emotional intelligence across development: A multilevel meta-analytic review. ***Trauma, Violence, & Abuse***, 15248380261443218. [https://doi.org/10.1177/15248380261443218](https://doi.org/10.1177/15248380261443218)
 
 ### In Progress (Displayed First Author Only)
 
-1. **Liu, Q.**, Wang, S., & Kong, F.<sup>\*</sup> (2026). Living True, Acting Green: Daily Dynamics of authenticity and Pro-environmental Behavior. ***European Journal of Personality***. (Major Revision)
+1. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, & Kong, F.<sup>\*</sup> (2026). Living True, Acting Green: Daily Dynamics of authenticity and Pro-environmental Behavior. ***European Journal of Personality***. (Major Revision)
 2. Gong, Z.<sup>#</sup>, **Liu, Q.**<sup>#</sup>, & Kong, F.<sup>\*</sup> (2026) Childhood roots, adult actions: Gratitude to nature mediating the relation between childhood nature experiences and pro-environmental behavior. ***Journal of Environmental Psychology***.
 3. **Liu, Q.**<sup>#</sup>, Gong, Z.<sup>#</sup>,  & Kong, F.<sup>\*</sup> (2026) Rich in Life, Rooted in Nature: Gratitude Mediates the Link Between Childhood Nature Experiences and Psychological Richness in Young Adults. ***Journal of Positive Psychology***.
 
