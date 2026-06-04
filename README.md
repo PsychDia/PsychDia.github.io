@@ -41,6 +41,8 @@
 ### In Progress (Displayed First Author Only)
 
 1. **Liu, Q.**, Wang, S., & Kong, F.<sup>\*</sup> (2026). Living True, Acting Green: Daily Dynamics of authenticity and Pro-environmental Behavior. ***European Journal of Personality***. (Major Revision)
+2. Gong, Z.<sup>#</sup>, **Liu, Q.**<sup>#</sup>, & Kong, F.<sup>\*</sup> (2026) Childhood roots, adult actions: Gratitude to nature mediating the relation between childhood nature experiences and pro-environmental behavior. ***Journal of Environmental Psychology***.
+3. **Liu, Q.**<sup>#</sup>, Gong, Z.<sup>#</sup>,  & Kong, F.<sup>\*</sup> (2026) Rich in Life, Rooted in Nature: Gratitude Mediates the Link Between Childhood Nature Experiences and Psychological Richness in Young Adults. ***Journal of Positive Psychology***.
 
 ***
 
