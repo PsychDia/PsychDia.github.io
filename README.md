@@ -81,9 +81,9 @@
   - Data Cleaning, Analysis and Visualization
   - Utilizing Large Language Models (LLMs) for Fill-Mask Association Tasks
 - **Representative Projects:**
-  -  Standardized Experience Sampling Method (ESM) Data Preprocessing Pipeline​ | To be open-sourced
-  -  Multilevel Modeling Analysis Workflow​ | See OSF repository upon article publication
-  -  Using API to Call LLM for Meta-analysis Title and Abstract Screening | To be open-sourced
+  -  Standardized Experience Sampling Method (ESM) Data Preprocessing Pipeline​ (To be open-sourced)
+  -  Multilevel Modeling Analysis Workflow​ (See OSF repository upon article publication)
+  -  Using API to Call LLM for Meta-analysis Title and Abstract Screening (To be open-sourced)
  
 ### Python (proficient)
 - **Core Packages:** numpy, pandas, matplotlib, DrissionPage, pyautogui, uiautomation, Psychopy, mne, pytorch, ... 
@@ -93,7 +93,7 @@
   - Experimental Design
   - EEG Data Preprocessing 
 - **Representative Projects:** 
-  - Automation of ESM Data Collection and Preprocessing | To be open-sourced
+  - Automation of ESM Data Collection and Preprocessing (To be open-sourced)
 
 ### Other Skills
 - fMRI Data Preprocessing  
