@@ -77,7 +77,7 @@
   <img src="https://psychdia.github.io/img/raw-github/markdown.png" height="40"/>
 </p>
 
-### R (proficient)
+### R 
 - **Core Packages:** httr2, ellmer, bruceR, tidyverse, purrr, MplusAutomation, lme4, FMAT, ...  
 - **Core Skills:**
   - Data Cleaning, Analysis and Visualization
@@ -87,7 +87,7 @@
   -  Multilevel Modeling Analysis Workflow​ (See OSF repository upon article publication)
   -  Using API to Call LLM for Meta-analysis Title and Abstract Screening (To be open-sourced)
  
-### Python (proficient)
+### Python 
 - **Core Packages:** numpy, pandas, matplotlib, DrissionPage, pyautogui, uiautomation, Psychopy, mne, pytorch, ...  
 - **Core Skills:**
   - Data Processing,
