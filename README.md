@@ -16,7 +16,7 @@
 
 ## Research Interests
 
-#### Social Psychology, AI for psychology
+#### AI and Computational Social Science
 
 ***
 
@@ -33,14 +33,14 @@
 2. Wang, S.<sup>#</sup>, **Liu, Q.**<sup>#</sup>, & Kong, F.<sup>\*</sup> (2026). Beyond happiness and meaning: a bi-factor model of gratitude in predicting psychological richness among young adults. ***The Journal of Positive Psychology***, 1–12. [https://doi.org/10.1080/17439760.2026.2660672](https://doi.org/10.1080/17439760.2026.2660672)\
    (IF<sub>2025</sub> = 2.9, SSCI Q1, 新锐<sub>2026</sub> 二区)\
    🔥 [Download PDF Freely in ResearchGate](https://www.researchgate.net/publication/403875743)
-2. Wang, S., **Liu, Q.**, Guo, T., Chen, X., Tan, Q., Zhen, Z., & Kong, F.<sup>\*</sup> (2026). Pursuing Pleasure or Meaning: A Weekly Diary Study of Happiness Motives and Prosocial Behavior in Young Adults. ***Journal of Happiness Studies**, 27.*(2). [https://doi.org/10.1007/s10902-026-01022-6](https://doi.org/10.1007/s10902-026-01022-6)\
+3. Wang, S., **Liu, Q.**, Guo, T., Chen, X., Tan, Q., Zhen, Z., & Kong, F.<sup>\*</sup> (2026). Pursuing Pleasure or Meaning: A Weekly Diary Study of Happiness Motives and Prosocial Behavior in Young Adults. ***Journal of Happiness Studies**, 27.*(2). [https://doi.org/10.1007/s10902-026-01022-6](https://doi.org/10.1007/s10902-026-01022-6)\
    (IF<sub>2025</sub> = 3.3, SSCI Q1, 新锐<sub>2026</sub> 一区)\
    🔥 [Download PDF Freely in ResearchGate](https://www.researchgate.net/publication/400646996)
 
 
 ### In Progress (Displayed First Author Only)
 
-1. **Liu, Q.**, Wang, S., & Kong, F.<sup>\*</sup> (2026). Living True, Acting Green: Daily Dynamics of authenticity and Pro-environmental Behavior. ***European Journal of Personality***. (being revised for the first round of review)
+1. **Liu, Q.**, Wang, S., & Kong, F.<sup>\*</sup> (2026). Living True, Acting Green: Daily Dynamics of authenticity and Pro-environmental Behavior. ***European Journal of Personality***. (Major Revision)
 
 ***
 
@@ -50,8 +50,9 @@
 - 多元函数[微分](https://www.bilibili.com/video/BV11a4y1L7BV/)及[积分](https://www.bilibili.com/video/BV19C4y1W7z7/)；[线性代数](https://www.bilibili.com/video/BV1ix411f7Yp/)；[概率论与数理统计](https://www.bilibili.com/video/BV1Ks41137yP/)
 - [复变函数与积分变换](https://www.bilibili.com/video/BV1W54y1Z7qK/)
 - [信号与系统](https://www.bilibili.com/video/BV1g94y1Q76G/)
-- [机器学习白板推导](https://www.bilibili.com/video/BV1aE411o7qd/)
-- [随机过程](https://www.bilibili.com/video/BV11b421E7nh/)
+- [强化学习的数学原理](https://www.bilibili.com/video/BV1sd4y167NS/)
+- [机器学习白板推导](https://www.bilibili.com/video/BV1aE411o7qd/) (选学)
+- [随机过程](https://www.bilibili.com/video/BV11b421E7nh/) (选学，Markov Chain)
 
 ### 哲学课程
 - [中国哲学史](https://www.bilibili.com/video/BV1Qy4y117kM/)；西方哲学史
@@ -74,17 +75,33 @@
   <img src="https://psychdia.github.io/img/raw-github/markdown.png" height="40"/>
 </p>
 
+### Program & Software
 - **R** (proficient)
-  - Data Cleaning 
-  - Data Analysis
-  - Data Visualization
+  - Package: httr2, ellmer, bruceR, tidyverse, purrr, furrr, MplusAutomation, lme4, FMAT...
+  - Core Skill: Utilizing Large Language Models (LLMs) for Fill-Mask Association Tasks
+  - Program:
+    -  Experience Sampling Method (ESM) Data Preprocessing Pipeline​ (To be open-sourced)
+    -  Multilevel Modeling Analysis Workflow​ (See OSF repository upon article publication)
+    -  Using API to call LLM for meta-analysis title and abstract screening (To be open-sourced)
 - **Python** (proficient)
-  - Experimental Design 
-  - Web Crawling 
-  - Automation of Data Collection and Preprocessing 
-  - EEG Data Preprocessing 
-- **Docker** (familiar)
-  - fMRI Data Preprocessing 
+  - Package: numpy, pandas, matplotlib, DrissionPgae, pyautogui, uiautomation, Psychopy, pytorch, ... 
+  - Core Skill: Data Handling, Web Crawling, Experimental Design, EEG Data Preprocessing 
+  - Program: 
+    - Automation of ESM Data Collection and Preprocessing (To be open-sourced)
+    - 
+- **Other Skill**  
+  - fMRI Data Preprocessing  
+    - Deepprep  
+    - AFNI
+  - Automated Workflows and Project Development Using Claude Code/Codex/Trae 
+
+### 开源项目(待补充
+
+- **R**
+ - 经验取样法数据预处理脚本
+ - 多水平分析标准流程
+- **Python**
+- 经验取样法自动数据收集脚本
 
 ***
 
@@ -95,11 +112,6 @@
 - [行为主义往事：从精密机器到辉煌人性 (2023)](https://mp.weixin.qq.com/s/0B8BJcADmuapkMUOZjWqhg)
 
 - 《西方马克思主义哲学》讲稿（整理自张双利老师的同名课程，待补充）
-
-### Literary Critic
-
-- [南京照相馆的遗憾 (2025)](https://mp.weixin.qq.com/s/oDf5WQIpuHilwY0M2yizqQ)
-- [何为左翼文艺 (2024)](https://www.zhihu.com/question/538730701/answer/3619169137)
 
 ### Video
 
