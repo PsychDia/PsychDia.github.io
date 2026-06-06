@@ -33,7 +33,7 @@ hi!你好~我是来自陕西师范大学基础心理学专业的硕士生刘潜�
 
 ### Published
 
-1. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, Niu, X., Li, C., Guo, T., Chen, X., & Kong, F.<sup>\*</sup> (2026). Cumulative benefits of nature: Childhood nature experiences and daily well-being in young adults. ***Journal of Environmental Psychology***. *In Press*\
+1. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, Niu, X., Li, C., Guo, T., Chen, X., & Kong, F.<sup>\*</sup> (2026). Cumulative benefits of nature: Childhood nature experiences and daily well-being in young adults. ***Journal of Environmental Psychology***. *In Press.* [https://doi.org/10.1016/j.jenvp.2026.103076](https://doi.org/10.1016/j.jenvp.2026.103076)\
  (IF<sub>2025</sub> = 7.0, SSCI Q1, 新锐<sub>2026</sub> 一区)\
    🔥 [Download PDF Freely in ResearchGate](https://www.researchgate.net/publication/404803456)
 2. Wang, S.<sup>#</sup>, **Liu, Q.**<sup>#</sup>, & Kong, F.<sup>\*</sup> (2026). Beyond happiness and meaning: a bi-factor model of gratitude in predicting psychological richness among young adults. ***The Journal of Positive Psychology***, 1–12. [https://doi.org/10.1080/17439760.2026.2660672](https://doi.org/10.1080/17439760.2026.2660672)\
@@ -48,7 +48,7 @@ hi!你好~我是来自陕西师范大学基础心理学专业的硕士生刘潜�
 
 1. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, & Kong, F.<sup>\*</sup> (2026). Living True, Acting Green: Daily Dynamics of authenticity and Pro-environmental Behavior. ***European Journal of Personality***. (Major Revision)
 2. Gong, Z.<sup>#</sup>, **Liu, Q.**<sup>#</sup>, & Kong, F.<sup>\*</sup> (2026) Childhood roots, adult actions: Gratitude to nature mediating the relation between childhood nature experiences and pro-environmental behavior. ***Journal of Environmental Psychology***.
-3. **Liu, Q.**<sup>#</sup>, Gong, Z.<sup>#</sup>,  & Kong, F.<sup>\*</sup> (2026) Rich in Life, Rooted in Nature: Gratitude Mediates the Link Between Childhood Nature Experiences and Psychological Richness in Young Adults. ***Journal of Positive Psychology***.
+3. **Liu, Q.**<sup>#</sup>, Gong, Z.<sup>#</sup>,  & Kong, F.<sup>\*</sup> (2026) Rich in Life, Rooted in Nature: Gratitude Mediates the Link Between Childhood Nature Experiences and Psychological Richness in Young Adults. ***The Journal of Positive Psychology***.
 
 ***
 
