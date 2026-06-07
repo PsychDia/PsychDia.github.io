@@ -96,6 +96,11 @@ blockquote {
   color: rgb(80, 80, 80);
 }
 
+code, pre {
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  color:#333;
+}
+
 pre {
   padding: 8px 15px;
   background: #f8f8f8;
