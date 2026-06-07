@@ -45,7 +45,7 @@ hi!你好~我是来自陕西师范大学基础心理学专业的硕士生刘潜�
    🔥 [Download PDF Freely in ResearchGate](https://www.researchgate.net/publication/400646996)
 4. Ren, A., Zhong, K., Liu, Y., **Liu, Q.**, Zhu, N.<sup>\*</sup>, & Kong, F.<sup>\*</sup> (2026). Childhood maltreatment and emotional intelligence across development: A multilevel meta-analytic review. ***Trauma, Violence, & Abuse***, 15248380261443218. [https://doi.org/10.1177/15248380261443218](https://doi.org/10.1177/15248380261443218)
 
-### In Progress (Displayed First Author Only)
+### In Progress
 
 1. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, & Kong, F.<sup>\*</sup> (Major Revision). Living True, Acting Green: Daily Dynamics of authenticity and Pro-environmental Behavior. ***European Journal of Personality***. 
 2. Liu, J., Yang, T., **Liu, Q.**, Wang, Y.<sup>\*</sup>, Zhao, J.<sup>\*</sup> (Under Review). The Unit of Attentional Selection in Visual Working
