@@ -2,9 +2,6 @@
 
 hi!你好~我是来自陕西师范大学基础心理学专业的硕士生刘潜。目前正在准备申请27年秋季的博士项目。
 
-```
-abc
-```
 
 ***
 
@@ -107,9 +104,7 @@ abc
   - Automation of ESM Data Collection and Preprocessing (To be open-sourced)
 
 ### Other Skills
-- fMRI Data Preprocessing  
-  - Deepprep  
-  - AFNI
+- fMRI Data Preprocessing (`DeepPrep`, `AFNI`)
 - Automated Workflows or Project Development Using AI Agent 
 
 ***
