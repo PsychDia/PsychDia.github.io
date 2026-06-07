@@ -87,7 +87,7 @@ Memory: A Boolean Map. ***Cognition***.
 </p>
 
 ### R 
-- **Core Packages:** `httr2`, `ellmer`, `bruceR`, `tidyverse`, `purrr`, `MplusAutomation`, `lme4,` `FMAT`, ...
+- **Core Packages:** `httr2`, `ellmer`, `bruceR`, `tidyverse`, `purrr`, `MplusAutomation`, `lme4`, `FMAT`, ...
 - **Core Skills:**
   - Data Cleaning, Analysis and Visualization
   - Utilizing Large Language Models (LLMs) for Fill-Mask Association Tasks
