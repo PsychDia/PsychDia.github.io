@@ -105,7 +105,7 @@ hi!你好~我是来自陕西师范大学基础心理学专业的硕士生刘潜�
 
 ### Other Skills
 - fMRI Data Preprocessing (`DeepPrep`, `AFNI`)
-- Automated Workflows or Project Development Using AI Agent (e.g., `Claude Code`, `Codex`, `trae solo`)
+- Automated Workflows or Project Development Using AI Agent (e.g., `Claude Code`, `Codex`, `TRAE SOLO`)
 
 ***
 
