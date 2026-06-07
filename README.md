@@ -127,9 +127,10 @@ Memory: A Boolean Map. ***Cognition***.
 
 ## Hobbies
 
-Reading
-
-Ping-Pong
+📖 Reading
+🏓 Ping-Pong
+🚶‍♂️ Hanging out with friends
+🧀 Appreciate delicious food
 
 ***
 
