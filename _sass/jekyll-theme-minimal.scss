@@ -116,6 +116,13 @@ pre {
   overflow-x: auto;
 }
 
+pre code {
+  padding: 0;
+  background: transparent;
+  border: 0;
+  font-size: inherit;
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
