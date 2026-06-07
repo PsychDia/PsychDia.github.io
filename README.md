@@ -116,8 +116,7 @@ Memory: A Boolean Map. ***Cognition***.
 ### Lecture & Reading Notes
 
 - [行为主义往事：从精密机器到辉煌人性 (2023)](https://mp.weixin.qq.com/s/0B8BJcADmuapkMUOZjWqhg)
-
-- 《西方马克思主义哲学》讲稿（整理自张双利老师的同名课程，待补充）
+- [西方马克思主义哲学讲稿](https://github.com/PsychDia/Western-Marxism-Zhang-Shuangli/tree/main)（整理自张双利老师的同名课程）
 
 ### Video
 
