@@ -75,6 +75,18 @@ section {
   margin-bottom: 20px;
 }
 
+.header-gif {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.header-gif img {
+  max-width: 300px;   /* 可按需调整 */
+  height: auto;
+  border-radius: 8px; /* 可选：圆角 */
+}
+
 a {
   color: rgb(0, 100, 180);
   text-decoration: none;
