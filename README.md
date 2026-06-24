@@ -34,7 +34,7 @@ hi!你好~我是来自陕西师范大学基础心理学专业的硕士生刘潜�
 
 ### Published
 
-1. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, Niu, X., Li, C., Guo, T., Chen, X., & Kong, F.<sup>\*</sup> (2026). Cumulative benefits of nature: Childhood nature experiences and daily well-being in young adults. ***Journal of Environmental Psychology***. *In Press.* [https://doi.org/10.1016/j.jenvp.2026.103076](https://doi.org/10.1016/j.jenvp.2026.103076)\
+1. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, Niu, X., Li, C., Guo, T., Chen, X., & Kong, F.<sup>\*</sup> (2026). Cumulative benefits of nature: Childhood nature experiences and daily well-being in young adults. ***Journal of Environmental Psychology***, *113*, 103076. [https://doi.org/10.1016/j.jenvp.2026.103076](https://doi.org/10.1016/j.jenvp.2026.103076)\
  (IF<sub>2026</sub> = 7.3, SSCI Q1, 新锐<sub>2026</sub> 一区)\
    🔥 [Download PDF](https://www.sciencedirect.com/science/article/pii/S0272494426001775)
 2. Wang, S.<sup>#</sup>, **Liu, Q.**<sup>#</sup>, & Kong, F.<sup>\*</sup> (2026). Beyond happiness and meaning: a bi-factor model of gratitude in predicting psychological richness among young adults. ***The Journal of Positive Psychology***, 1–12. [https://doi.org/10.1080/17439760.2026.2660672](https://doi.org/10.1080/17439760.2026.2660672)\
@@ -64,6 +64,8 @@ Memory: A Boolean Map. ***Cognition***.
 - [强化学习的数学原理](https://www.bilibili.com/video/BV1sd4y167NS/)
 - [机器学习白板推导](https://www.bilibili.com/video/BV1aE411o7qd/) (选学)
 - [随机过程](https://www.bilibili.com/video/BV11b421E7nh/) (选学，Markov Chain)
+- [动手强化学习](https://walkinglabs.github.io/hands-on-modern-rl/)
+- [动手深度学习](https://courses.d2l.ai/zh-v2/)
 
 ### 哲学课程
 - [中国哲学史](https://www.bilibili.com/video/BV1Qy4y117kM/)；西方哲学史
