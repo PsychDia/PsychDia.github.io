@@ -40,7 +40,7 @@ hi!你好~我是来自陕西师范大学基础心理学专业的硕士生刘潜�
 2. Wang, S.<sup>#</sup>, **Liu, Q.**<sup>#</sup>, & Kong, F.<sup>\*</sup> (2026). Beyond happiness and meaning: a bi-factor model of gratitude in predicting psychological richness among young adults. ***The Journal of Positive Psychology***, 1–12. [https://doi.org/10.1080/17439760.2026.2660672](https://doi.org/10.1080/17439760.2026.2660672)\
    (IF<sub>2026</sub> = 3.6, SSCI Q1, 新锐<sub>2026</sub> 二区)\
    🔥 [Download PDF Freely in ResearchGate](https://www.researchgate.net/publication/403875743)
-3. Wang, S., **Liu, Q.**, Guo, T., Chen, X., Tan, Q., Zhen, Z., & Kong, F.<sup>\*</sup> (2026). Pursuing Pleasure or Meaning: A Weekly Diary Study of Happiness Motives and Prosocial Behavior in Young Adults. ***Journal of Happiness Studies**, 27.*(2). [https://doi.org/10.1007/s10902-026-01022-6](https://doi.org/10.1007/s10902-026-01022-6)\
+3. Wang, S., **Liu, Q.**, Guo, T., Chen, X., Tan, Q., Zhen, Z., & Kong, F.<sup>\*</sup> (2026). Pursuing Pleasure or Meaning: A Weekly Diary Study of Happiness Motives and Prosocial Behavior in Young Adults. ***Journal of Happiness Studies***, *27*.(2). [https://doi.org/10.1007/s10902-026-01022-6](https://doi.org/10.1007/s10902-026-01022-6)\
    (IF<sub>2026</sub> = 3.7, SSCI Q1, 新锐<sub>2026</sub> 一区)\
    🔥 [Download PDF Freely in ResearchGate](https://www.researchgate.net/publication/400646996)
 4. Ren, A., Zhong, K., Liu, Y., **Liu, Q.**, Zhu, N.<sup>\*</sup>, & Kong, F.<sup>\*</sup> (2026). Childhood maltreatment and emotional intelligence across development: A multilevel meta-analytic review. ***Trauma, Violence, & Abuse***, 15248380261443218. [https://doi.org/10.1177/15248380261443218](https://doi.org/10.1177/15248380261443218)
