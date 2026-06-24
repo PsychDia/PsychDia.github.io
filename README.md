@@ -65,7 +65,7 @@ Memory: A Boolean Map. ***Cognition***.
 - [机器学习白板推导](https://www.bilibili.com/video/BV1aE411o7qd/) (选学)
 - [随机过程](https://www.bilibili.com/video/BV11b421E7nh/) (选学，Markov Chain)
 - [动手强化学习](https://walkinglabs.github.io/hands-on-modern-rl/)
-- [动手深度学习](https://courses.d2l.ai/zh-v2/)
+- [动手深度学习](https://courses.d2l.ai/zh-v2/)  
 
 ### 哲学课程
 - [中国哲学史](https://www.bilibili.com/video/BV1Qy4y117kM/)；西方哲学史
