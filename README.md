@@ -47,12 +47,12 @@ hi!你好~我是来自陕西师范大学基础心理学专业的硕士生刘潜�
 
 ### In Progress
 
-1. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, & Kong, F.<sup>\*</sup> (Major Revision). Living True, Acting Green: Daily Dynamics of authenticity and Pro-environmental Behavior. ***European Journal of Personality***. 
+1. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, & Kong, F.<sup>\*</sup> (Major Revision). Living true, acting green: The Day-to-day association of authenticity and pro-environmental behavior. ***European Journal of Personality***. 
 2. Liu, J., Yang, T., **Liu, Q.**, Wang, Y.<sup>\*</sup>, Zhao, J.<sup>\*</sup> (Under Review). The Unit of Attentional Selection in Visual Working
 Memory: A Boolean Map. ***Cognition***.
-3. Liu, S., **Liu, Q.**, & Kong, F.<sup>\*</sup> (Under Review) Shadows of Childhood: Early Maltreatment and Daily Meaning in Life Among Young Adults. ***The Journal of Positive Psychology***
-4. Gong, Z.<sup>#</sup>, **Liu, Q.**<sup>#</sup>, & Kong, F.<sup>\*</sup> (Submitted) Childhood roots, adult actions: Gratitude to nature mediating the relation between childhood nature experiences and pro-environmental behavior. ***Journal of Environmental Psychology***.
-5. **Liu, Q.**<sup>#</sup>, Gong, Z.<sup>#</sup>,  & Kong, F.<sup>\*</sup> (To Be Submitted) Rich in Life, Rooted in Nature: Gratitude Mediates the Link Between Childhood Nature Experiences and Psychological Richness in Young Adults.
+3. Liu, S., **Liu, Q.**, & Kong, F.<sup>\*</sup> (Under Review) Shadows of childhood: Early maltreatment and daily meaning in life among young adults. ***The Journal of Positive Psychology***
+4. Gong, Z.<sup>#</sup>, **Liu, Q.**<sup>#</sup>, & Kong, F.<sup>\*</sup> (Submitted) Childhood roots, adult actions: Gratitude to nature mediating the relation between childhood nature experiences and pro-environmental behavior. ***Journal of Cleaner Production***.
+5. **Liu, Q.**<sup>#</sup>, Gong, Z.<sup>#</sup>,  & Kong, F.<sup>\*</sup> (To Be Submitted) Rich in life, rooted in nature: Gratitude mediates the link between childhood nature experiences and psychological richness in young adults.
 
 ***
 
@@ -109,8 +109,8 @@ Memory: A Boolean Map. ***Cognition***.
   - Automation of ESM Data Collection and Preprocessing (To be open-sourced)
 
 ### Other Skills
-- fMRI Data Preprocessing (`DeepPrep`, `AFNI`)
-- Automated Workflows or Project Development Using AI Agent (e.g., `Claude Code`, `Codex`, `TRAE SOLO`)
+- fMRI Data Preprocessing and Analysis
+- Automated Workflows or Project Development Using AI Agent (e.g., `Claude Code`, `TRAE WORK`)
 
 ***
 
