@@ -23,6 +23,7 @@ hi!你好~我是来自陕西师范大学基础心理学专业的硕士生刘潜�
 
 ## Research Interests
 
+#### Social Psychology 
 #### AI and Computational Social Science
 
 ***
@@ -52,28 +53,9 @@ hi!你好~我是来自陕西师范大学基础心理学专业的硕士生刘潜�
 Memory: A Boolean Map. ***Cognition***.
 3. Liu, S., **Liu, Q.**, & Kong, F.<sup>\*</sup> (Under Review) Shadows of childhood: Early maltreatment and daily meaning in life among young adults. ***The Journal of Positive Psychology***
 4. Gong, Z.<sup>#</sup>, **Liu, Q.**<sup>#</sup>, & Kong, F.<sup>\*</sup> (Submitted) Childhood roots, adult actions: Gratitude to nature mediating the relation between childhood nature experiences and pro-environmental behavior. ***Journal of Cleaner Production***.
-5. **Liu, Q.**<sup>#</sup>, Gong, Z.<sup>#</sup>,  & Kong, F.<sup>\*</sup> (To Be Submitted) Rich in life, rooted in nature: Gratitude mediates the link between childhood nature experiences and psychological richness in young adults.
+5. **Liu, Q.**<sup>#</sup>, Gong, Z.<sup>#</sup>,  & Kong, F.<sup>\*</sup> (To Be Submitted) Rich in life, rooted in nature: Gratitude mediates the link between childhood nature experiences and psychological richness in young adults. 
+6. Zhang, T., Liu, Q., & Kong, F.<sup>\*</sup> (In Preparation). Sincerity: Genuine emotion and authentic intent in interpersonal interaction. ***Advances in Psychological Science.*** (心理科学进展)
 
-***
-
-## Coursework Online
-
-### 理工科课程
-- 多元函数[微分](https://www.bilibili.com/video/BV11a4y1L7BV/)及[积分](https://www.bilibili.com/video/BV19C4y1W7z7/)；[线性代数](https://www.bilibili.com/video/BV1ix411f7Yp/)；[概率论与数理统计](https://www.bilibili.com/video/BV1Ks41137yP/)
-- [复变函数与积分变换](https://www.bilibili.com/video/BV1W54y1Z7qK/)
-- [信号与系统](https://www.bilibili.com/video/BV1g94y1Q76G/)
-- [强化学习的数学原理](https://www.bilibili.com/video/BV1sd4y167NS/)
-- [机器学习白板推导](https://www.bilibili.com/video/BV1aE411o7qd/) (选学)
-- [随机过程](https://www.bilibili.com/video/BV11b421E7nh/) (选学，Markov Chain)
-- [动手强化学习](https://walkinglabs.github.io/hands-on-modern-rl/)
-- [动手深度学习](https://courses.d2l.ai/zh-v2/)  
-
-### 哲学课程
-- [中国哲学史](https://www.bilibili.com/video/BV1Qy4y117kM/)；西方哲学史
-- [科学哲学](https://www.bilibili.com/video/BV1G4411f73f/)
-- [德国古典哲学](https://www.bilibili.com/video/BV1494y1o7BD/)
-- [《1844年经济学哲学手稿》导读](https://www.bilibili.com/video/BV1gVFKebEXn)
-- [西方马克思主义](https://www.bilibili.com/video/BV1GJ4m1j7FR/)
 
 ***
 
@@ -111,6 +93,27 @@ Memory: A Boolean Map. ***Cognition***.
 ### Other Skills
 - fMRI Data Preprocessing and Analysis
 - Automated Workflows or Project Development Using AI Agent (e.g., `Claude Code`, `TRAE WORK`)
+
+***
+
+## Coursework Online
+
+### 理工科课程
+- 多元函数[微分](https://www.bilibili.com/video/BV11a4y1L7BV/)及[积分](https://www.bilibili.com/video/BV19C4y1W7z7/)；[线性代数](https://www.bilibili.com/video/BV1ix411f7Yp/)；[概率论与数理统计](https://www.bilibili.com/video/BV1Ks41137yP/)
+- [复变函数与积分变换](https://www.bilibili.com/video/BV1W54y1Z7qK/)
+- [信号与系统](https://www.bilibili.com/video/BV1g94y1Q76G/)
+- [强化学习的数学原理](https://www.bilibili.com/video/BV1sd4y167NS/)
+- [机器学习白板推导](https://www.bilibili.com/video/BV1aE411o7qd/) (选学)
+- [随机过程](https://www.bilibili.com/video/BV11b421E7nh/) (选学，Markov Chain)
+- [动手强化学习](https://walkinglabs.github.io/hands-on-modern-rl/)
+- [动手深度学习](https://courses.d2l.ai/zh-v2/)  
+
+### 哲学课程
+- [中国哲学史](https://www.bilibili.com/video/BV1Qy4y117kM/)；西方哲学史
+- [科学哲学](https://www.bilibili.com/video/BV1G4411f73f/)
+- [德国古典哲学](https://www.bilibili.com/video/BV1494y1o7BD/)
+- [《1844年经济学哲学手稿》导读](https://www.bilibili.com/video/BV1gVFKebEXn)
+- [西方马克思主义](https://www.bilibili.com/video/BV1GJ4m1j7FR/)
 
 ***
 
