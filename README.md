@@ -74,7 +74,7 @@ Memory: A Boolean Map. ***Cognition***.
   -  Using API to Call LLM for Meta-analysis Title and Abstract Screening (To be open-sourced)
  
 ### Python 
-- **Core Packages:** `numpy`, `pandas`, `matplotlib`, `DrissionPage`, `pyautogui`, `uiautomation`, `Psychopy`, `mne`, `pytorch`, ...
+- **Core Packages:** `numpy`, `pandas`, `matplotlib`, `DrissionPage`, `pyautogui`, `uiautomation`, `Psychopy`, `Sklearn`, `pytorch`, ...
 - **Core Skills:**
   - Data Processing,
   - Web Crawling
