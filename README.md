@@ -2,7 +2,6 @@
 
 hi!你好~我是来自陕西师范大学基础心理学专业的硕士生刘潜。目前正在申请27年秋季的博士项目。
 
-
 ***
 
 ## Education
@@ -18,13 +17,6 @@ hi!你好~我是来自陕西师范大学基础心理学专业的硕士生刘潜�
 **Jilin University**, [Department of Psychology, School of Philosophy and Sociology](https://zsy.jlu.edu.cn/index.htm)\
 吉林大学 · 哲学社会学院心理学系 (理学学士)\
 导师：**张彦彦** 教授
-
-***
-
-## Research Interests
-
-#### Social Psychology 
-#### AI and Computational Social Science
 
 ***
 
