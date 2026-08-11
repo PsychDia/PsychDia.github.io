@@ -40,12 +40,12 @@ hi!你好~我是来自陕西师范大学基础心理学专业的硕士生刘潜�
 
 ### In Progress
 
-1. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, & Kong, F.<sup>\*</sup> (Major Revision). Living true, acting green: The Day-to-day association of authenticity and pro-environmental behavior. ***European Journal of Personality***. 
-2. Liu, J., Yang, T., **Liu, Q.**, Wang, Y.<sup>\*</sup>, Zhao, J.<sup>\*</sup> (Major Revision). The Unit of Attentional Selection in Visual Working
-Memory: A Boolean Map. ***Cognition***.
+1. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, & Kong, F.<sup>\*</sup> (Major Revision). Living true, acting green: The day-to-day association of authenticity and pro-environmental behavior. ***European Journal of Personality***. 
+2. Liu, J., Yang, T., **Liu, Q.**, Wang, Y.<sup>\*</sup>, Zhao, J.<sup>\*</sup> (Major Revision). The unit of attentional selection in visual working
+memory: A boolean map. ***Cognition***.
 3. Liu, S., **Liu, Q.**, & Kong, F.<sup>\*</sup> (Under Review) Shadows of childhood: Early maltreatment and daily meaning in life among young adults. ***The Journal of Positive Psychology***.
-4. Gong, Z.<sup>#</sup>, **Liu, Q.**<sup>#</sup>, & Kong, F.<sup>\*</sup> (With Editor) Childhood roots, adult actions: Gratitude to nature mediating the relation between childhood nature experiences and pro-environmental behavior. ***Journal of Environmental Psychology***.
-5. **Liu, Q.**<sup>#</sup>, Gong, Z.<sup>#</sup>,  & Kong, F.<sup>\*</sup> (Submitted) Rich in life, rooted in nature: Gratitude mediates the link between childhood nature experiences and psychological richness in young adults. ***Journal of Personality***
+4. Gong, Z.<sup>#</sup>, **Liu, Q.**<sup>#</sup>, & Kong, F.<sup>\*</sup> (Under Review) Childhood roots, adult actions: Gratitude to nature mediating the relation between childhood nature experiences and pro-environmental behavior. ***Journal of Environmental Psychology***.
+5. **Liu, Q.**<sup>#</sup>, Gong, Z.<sup>#</sup>,  & Kong, F.<sup>\*</sup> (With Editor) Rich in life, rooted in nature: Gratitude mediates the link between childhood nature experiences and psychological richness in young adults. ***Journal of Personality***.
 6. Zhang, T., Liu, Q., & Kong, F.<sup>\*</sup> (In Preparation). Sincerity: Genuine emotion and authentic intent in interpersonal interaction. ***Advances in Psychological Science.*** (心理科学进展)
 
 
