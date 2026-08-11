@@ -43,9 +43,9 @@ hi!你好~我是来自陕西师范大学基础心理学专业的硕士生刘潜�
 1. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, & Kong, F.<sup>\*</sup> (Major Revision). Living true, acting green: The Day-to-day association of authenticity and pro-environmental behavior. ***European Journal of Personality***. 
 2. Liu, J., Yang, T., **Liu, Q.**, Wang, Y.<sup>\*</sup>, Zhao, J.<sup>\*</sup> (Major Revision). The Unit of Attentional Selection in Visual Working
 Memory: A Boolean Map. ***Cognition***.
-3. Liu, S., **Liu, Q.**, & Kong, F.<sup>\*</sup> (Under Review) Shadows of childhood: Early maltreatment and daily meaning in life among young adults. ***The Journal of Positive Psychology***
-4. Gong, Z.<sup>#</sup>, **Liu, Q.**<sup>#</sup>, & Kong, F.<sup>\*</sup> (Submitted) Childhood roots, adult actions: Gratitude to nature mediating the relation between childhood nature experiences and pro-environmental behavior. ***Journal of Cleaner Production***.
-5. **Liu, Q.**<sup>#</sup>, Gong, Z.<sup>#</sup>,  & Kong, F.<sup>\*</sup> (To Be Submitted) Rich in life, rooted in nature: Gratitude mediates the link between childhood nature experiences and psychological richness in young adults. 
+3. Liu, S., **Liu, Q.**, & Kong, F.<sup>\*</sup> (Under Review) Shadows of childhood: Early maltreatment and daily meaning in life among young adults. ***The Journal of Positive Psychology***.
+4. Gong, Z.<sup>#</sup>, **Liu, Q.**<sup>#</sup>, & Kong, F.<sup>\*</sup> (With Editor) Childhood roots, adult actions: Gratitude to nature mediating the relation between childhood nature experiences and pro-environmental behavior. ***Journal of Environmental Psychology***.
+5. **Liu, Q.**<sup>#</sup>, Gong, Z.<sup>#</sup>,  & Kong, F.<sup>\*</sup> (Submitted) Rich in life, rooted in nature: Gratitude mediates the link between childhood nature experiences and psychological richness in young adults. ***Journal of Personality***
 6. Zhang, T., Liu, Q., & Kong, F.<sup>\*</sup> (In Preparation). Sincerity: Genuine emotion and authentic intent in interpersonal interaction. ***Advances in Psychological Science.*** (心理科学进展)
 
 
@@ -96,9 +96,8 @@ Memory: A Boolean Map. ***Cognition***.
 - [信号与系统](https://www.bilibili.com/video/BV1g94y1Q76G/)
 - [强化学习的数学原理](https://www.bilibili.com/video/BV1sd4y167NS/)
 - [机器学习白板推导](https://www.bilibili.com/video/BV1aE411o7qd/) (选学)
-- [随机过程](https://www.bilibili.com/video/BV11b421E7nh/) (选学，Markov Chain)
 - [动手强化学习](https://walkinglabs.github.io/hands-on-modern-rl/)
-- [动手深度学习](https://courses.d2l.ai/zh-v2/)  
+- [动手深度学习](https://courses.d2l.ai/zh-v2/) (选学) 
 
 ### 哲学课程
 - [中国哲学史](https://www.bilibili.com/video/BV1Qy4y117kM/)；西方哲学史
