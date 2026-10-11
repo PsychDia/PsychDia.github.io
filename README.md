@@ -27,27 +27,17 @@ hi!你好~我是来自陕西师范大学基础心理学专业的硕士生刘潜�
 
 ### Published
 
-1. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, Niu, X., Li, C., Guo, T., Chen, X., & Kong, F.<sup>\*</sup> (2026). Cumulative benefits of nature: Childhood nature experiences and daily well-being in young adults. ***Journal of Environmental Psychology***, *113*, 103076. [https://doi.org/10.1016/j.jenvp.2026.103076](https://doi.org/10.1016/j.jenvp.2026.103076)\
+1. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, & Kong, F.<sup>\*</sup>. Living true, acting green: The day-to-day association of authenticity and pro-environmental behavior. ***European Journal of Personality***. 
+2. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, Niu, X., Li, C., Guo, T., Chen, X., & Kong, F.<sup>\*</sup> (2026). Cumulative benefits of nature: Childhood nature experiences and daily well-being in young adults. ***Journal of Environmental Psychology***, *113*, 103076. [https://doi.org/10.1016/j.jenvp.2026.103076](https://doi.org/10.1016/j.jenvp.2026.103076)\
  (IF<sub>2026</sub> = 7.3, SSCI Q1, 新锐<sub>2026</sub> 一区)\
    🔥 [Download PDF](https://www.sciencedirect.com/science/article/pii/S0272494426001775)
-2. Wang, S.<sup>#</sup>, **Liu, Q.**<sup>#</sup>, & Kong, F.<sup>\*</sup> (2026). Beyond happiness and meaning: a bi-factor model of gratitude in predicting psychological richness among young adults. ***The Journal of Positive Psychology***, 1–12. [https://doi.org/10.1080/17439760.2026.2660672](https://doi.org/10.1080/17439760.2026.2660672)\
+3. Wang, S.<sup>#</sup>, **Liu, Q.**<sup>#</sup>, & Kong, F.<sup>\*</sup> (2026). Beyond happiness and meaning: a bi-factor model of gratitude in predicting psychological richness among young adults. ***The Journal of Positive Psychology***, 1–12. [https://doi.org/10.1080/17439760.2026.2660672](https://doi.org/10.1080/17439760.2026.2660672)\
    (IF<sub>2026</sub> = 3.6, SSCI Q1, 新锐<sub>2026</sub> 二区)\
    🔥 [Download PDF Freely in ResearchGate](https://www.researchgate.net/publication/403875743)
-3. Wang, S., **Liu, Q.**, Guo, T., Chen, X., Tan, Q., Zhen, Z., & Kong, F.<sup>\*</sup> (2026). Pursuing Pleasure or Meaning: A Weekly Diary Study of Happiness Motives and Prosocial Behavior in Young Adults. ***Journal of Happiness Studies***, *27*.(2). [https://doi.org/10.1007/s10902-026-01022-6](https://doi.org/10.1007/s10902-026-01022-6)\
+4. Wang, S., **Liu, Q.**, Guo, T., Chen, X., Tan, Q., Zhen, Z., & Kong, F.<sup>\*</sup> (2026). Pursuing Pleasure or Meaning: A Weekly Diary Study of Happiness Motives and Prosocial Behavior in Young Adults. ***Journal of Happiness Studies***, *27*.(2). [https://doi.org/10.1007/s10902-026-01022-6](https://doi.org/10.1007/s10902-026-01022-6)\
    (IF<sub>2026</sub> = 3.7, SSCI Q1, 新锐<sub>2026</sub> 一区)\
    🔥 [Download PDF Freely in ResearchGate](https://www.researchgate.net/publication/400646996)
-4. Ren, A., Zhong, K., Liu, Y., **Liu, Q.**, Zhu, N.<sup>\*</sup>, & Kong, F.<sup>\*</sup> (2026). Childhood maltreatment and emotional intelligence across development: A multilevel meta-analytic review. ***Trauma, Violence, & Abuse***, 15248380261443218. [https://doi.org/10.1177/15248380261443218](https://doi.org/10.1177/15248380261443218)
-
-### In Progress
-
-1. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, & Kong, F.<sup>\*</sup> (Major Revision). Living true, acting green: The day-to-day association of authenticity and pro-environmental behavior. ***European Journal of Personality***. 
-2. Liu, J., Yang, T., **Liu, Q.**, Wang, Y.<sup>\*</sup>, Zhao, J.<sup>\*</sup> (Major Revision). The unit of attentional selection in visual working
-memory: A boolean map. ***Cognition***.
-3. Liu, S., **Liu, Q.**, & Kong, F.<sup>\*</sup> (Under Review) Shadows of childhood: Early maltreatment and daily meaning in life among young adults. ***The Journal of Positive Psychology***.
-4. Gong, Z.<sup>#</sup>, **Liu, Q.**<sup>#</sup>, & Kong, F.<sup>\*</sup> (Under Review) Childhood roots, adult actions: Gratitude to nature mediating the relation between childhood nature experiences and pro-environmental behavior. ***Journal of Environmental Psychology***.
-5. **Liu, Q.**<sup>#</sup>, Gong, Z.<sup>#</sup>,  & Kong, F.<sup>\*</sup> (With Editor) Rich in life, rooted in nature: Gratitude mediates the link between childhood nature experiences and psychological richness in young adults. ***Journal of Personality***.
-6. Zhang, T., Liu, Q., & Kong, F.<sup>\*</sup> (In Preparation). Sincerity: Genuine emotion and authentic intent in interpersonal interaction. ***Advances in Psychological Science.*** (心理科学进展)
-
+5. Ren, A., Zhong, K., Liu, Y., **Liu, Q.**, Zhu, N.<sup>\*</sup>, & Kong, F.<sup>\*</sup> (2026). Childhood maltreatment and emotional intelligence across development: A multilevel meta-analytic review. ***Trauma, Violence, & Abuse***, 15248380261443218. [https://doi.org/10.1177/15248380261443218](https://doi.org/10.1177/15248380261443218)
 
 ***
 
