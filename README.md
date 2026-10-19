@@ -1,6 +1,7 @@
 ***
 
 hi!你好~我是来自陕西师范大学基础心理学专业的硕士生刘潜。
+
 ***
 
 ## Education
@@ -24,9 +25,8 @@ hi!你好~我是来自陕西师范大学基础心理学专业的硕士生刘潜�
 <sup>\*</sup> corresponding author  
 <sup>*#*</sup> first co-author
 
-### Published
-
-1. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, & Kong, F.<sup>\*</sup>. Living true, acting green: The day-to-day association of authenticity and pro-environmental behavior. ***European Journal of Personality***. 
+1. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, & Kong, F.<sup>\*</sup>. Living true, acting green: The day-to-day association of authenticity and pro-environmental behavior. ***European Journal of Personality***. <https://journals.sagepub.com/doi/10.1177/08902070261497846>\
+(IF<sub>2026</sub> = 4.8, SSCI Q1, 新锐<sub>2026</sub> 一区)\
 2. **Liu, Q.**<sup>#</sup>, Wang, S.<sup>#</sup>, Niu, X., Li, C., Guo, T., Chen, X., & Kong, F.<sup>\*</sup> (2026). Cumulative benefits of nature: Childhood nature experiences and daily well-being in young adults. ***Journal of Environmental Psychology***, *113*, 103076. [https://doi.org/10.1016/j.jenvp.2026.103076](https://doi.org/10.1016/j.jenvp.2026.103076)\
  (IF<sub>2026</sub> = 7.3, SSCI Q1, 新锐<sub>2026</sub> 一区)\
    🔥 [Download PDF](https://www.sciencedirect.com/science/article/pii/S0272494426001775)
